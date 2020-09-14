@@ -4,7 +4,7 @@
 <img width="800px"  src="https://i.imgur.com/P21Hk0u.png">
 </p>
 
-## 📸 Requirements
+## Requirements
 
 - User must be able view and click list of functionalities of the app, such as:Agenda,Speakers,GDG team,Sponsors of the event,FAQ,Location of the event.
 - User must be able view:Topic title,speaker details,start time of session and how long session will last.
