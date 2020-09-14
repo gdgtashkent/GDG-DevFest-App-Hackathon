@@ -19,37 +19,40 @@ GDG Tashkent and IT-Park Uzbekistan are committed to build and maintain a great 
 If that’s not attractive enough, we also have some sweet, sweet prizes!
 
 ## **Prizes** 🏆
-1st Place: Amazfit GTS Smart Watch 
-2nd Place: Google Home Mini 1st Generation
+1st Place: Amazfit GTS Smart Watch\
+2nd Place: Google Home Mini 1st Generation\
 3rd Place: Xiaomi Mi Band 5
 
-
 ## Judging
+Judging will be based on three main areas. For each area each submission can receive maximum of 10 scores. Areas are as following: 
+1. Code quality - How much your submitted codebase follows [Android Best Practices](https://developer.android.com/distribute/best-practices) and Common Design patterns. It will also be judged against common Android and coding standards, e.g. SOLID, KISS and etc. 
+2. UI/UX - If your app has a good UI/UX. To get maximum score, we recommend to use Material Design and implement subtle animations when needed to improve UX. Other basic UI/UX standars will be judged as well.
+3. Miscellaneous - If you app has the all pages required, submitted to a Git Folder with a good readme file and other extras.
 
  
 ## How to Enter
-## Entries
-## Questions or Comments
-## Legal Stuff
+1. Upload your code to a new github project
+2. Update Readme file 
+3. Fork this folder
+4. Send a pull request with your Full Name, and Github URL under the comments. For Example:
+Full Name: Nuruddin
+Repo URL: https://github.com/gdgtashkent/GDG-DevFest-App-Hackathon/
+
 
 # **Who can apply** 📝
 
 Any Student | graduates | Open-Source teams who loves to code 👨‍💻 are welcome. 🙏
 
-- Open-source Teams
 - High School Graduates
 - College Graduates
 - Anyone who loves to code 👨‍💻.
 
+## Questions or Comments
+Any further questions and comments can be asked on our [Telegram Group](https://t.me/gdgapphackathon)
 
 📆 **Important Dates:**
 
-* Themes Disclose: `15th July 2020`
-* Theme Selection: `16th - 18th July 2020`
-* Idea Submission: `19th - 20th July 2020`
-  * Idea Submission Time: ⏰ `8 AM to 10 PM`
-* Hack Days: `21st - 26th July 2020`
-* Project Submission: `27th July 2020`
-* Project Evaluation: `28th - 29th July 2020`
-* Result Declaration: `30th July 2020` (Tentative) 
+* Project Submission: `2nd October 2020, 23:59`
+* Project Evaluation: `3rd October 2020 - 8th October 2020`
+* Result Declaration: `7th October 2020` (Tentative) 
 
