@@ -1,4 +1,4 @@
-# GDG DEVFEST APP 
+# GDG DevFest App
 
 <p align="center">
 <img width="800px"  src="https://i.imgur.com/P21Hk0u.png">
@@ -6,15 +6,15 @@
 
 ## Requirements
 
-- User must be able view and click list of functionalities of the app, such as:Agenda,Speakers,GDG team,Sponsors of the event,FAQ,Location of the event.
-- User must be able view:Topic title,speaker details,start time of session and how long session will last.
-- Sessions should be grouped(Mobile,Cloud,Web)
-- User must be able to view team memeber details:fullname,image,position
-- User must be able to view list of sponsors and click.When user clicks sponsor then user should be directed to website of the sponsor
+- User must be able view and click list of functionalities of the app, such as: Agenda, Speakers, GDG team, Sponsors of the event, FAQ, Location of the event.
+- User must be able view: Topic title, speaker details, start time of session and how long session will last.
+- Sessions should be grouped: Mobile, Cloud, Web.
+- User must be able to view team memeber details: fullname, image, position
+- User must be able to view list of sponsors and click. When user clicks sponsor then user should be directed to website of the sponsor.
 - User must be able to view in the google map location of the event.
 - User must be able to view questions and answers to them.
-- Import json file to your firebase account
-- Connect firebase with your app.
+- Import JSON file to your Firebase account.
+- Connect Firebase with your app.
 
 ## 📸 ScreenShots
 
@@ -35,7 +35,7 @@ Screen-1. This screen is welcome screen which consist main functinons of the app
 
 ![](https://i.imgur.com/ipUdGyk.png)
 
-Screen-2. This screen should show agenda for the devfest.
+Screen-2. This screen should show agenda for the DevFest.
 
 - User must be able view:Topic title,speaker details,start time of session and how long session will last.
 - Sessions should be grouped(Mobile,Cloud,Web)
@@ -65,7 +65,7 @@ Screen-6. This screen should show list of FAQs(Frequently asked questions)
 ## Technology Stack
 
 - Flutter
-- Native IOS
-- Native Android
+- iOS native
+- Android native
 
-You can build application using Flutter or you can write natively for each platform(Kotlin for Android and Swift for IOS).Backend for the applicatio you have to build by yourself using Firebase.You can find existing data(in json format) in this repository called devfest-tashkent.json. You have to import json file to your firebase account and use it in your apps.
+You can build application using Flutter or you can write natively for each platform(Kotlin for Android and Swift for iOS).Backend for the applicatio you have to build by yourself using Firebase.You can find existing data(in JSON format) in this repository called devfest-tashkent.json. You have to import JSON file to your Firebase account and use it in your apps.
