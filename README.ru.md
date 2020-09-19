@@ -1,4 +1,5 @@
 # GDG-DevFest-App-Hackathon
+Читать на других языках: [O'zbek](./README.uz.md), [English](./README.md)
 
 ## Описание
 GDG Tashkent совместно с IT Park рады объявить о первом Android-хакатоне: «DevFest App Hackathon», который пройдет в онлайн формате
