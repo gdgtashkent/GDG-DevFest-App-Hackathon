@@ -1,5 +1,5 @@
 # GDG-DevFest-App-Hackathon
-Boshqa tillarda o'qing: [English](./README.md), [Русский](./Readme.ru.md)
+Boshqa tillarda o'qing: [English](./README.md), [Русский](./README.ru.md)
 
 ## Tavsifnoma
 GDG Tashkent va IT Park’dan Hackathon:Build Devfest app!
