@@ -1,7 +1,6 @@
 # GDG-DevFest-App-Hackathon
 
 ## Description
-
 GDG Tashkent and IT-Park Uzbekistan are thrilled to announce our first Android hackathon: DevFest App Hackathon. From now to September 25, you will have a great opportunity to submit your applications and win sweet prizes by building and sharing an app for GDG DevFest 2020. We want to check out the most practical, creative, and beautiful apps that benefit our community. Read on to learn more. 
 
 ## What is DevFest?
@@ -40,7 +39,6 @@ Repo URL: https://github.com/gdgtashkent/GDG-DevFest-App-Hackathon/
 
 
 # **Who can apply** 📝
-
 Any Student | graduates | Open-Source teams who love to code 👨‍💻 are welcome. 🙏
 
 - High School Graduates
@@ -51,8 +49,6 @@ Any Student | graduates | Open-Source teams who love to code 👨‍💻 are wel
 Any further questions and comments can be asked on our [Telegram Group](https://t.me/gdgapphackathon)
 
 📆 **Important Dates:**
-
 * Project Submission: `2nd October 2020, 23:59`
 * Project Evaluation: `3rd October 2020 - 8th October 2020`
-* Result Declaration: `7th October 2020` (Tentative) 
-
+* Results Announcement: `7th October 2020` (Tentative)
