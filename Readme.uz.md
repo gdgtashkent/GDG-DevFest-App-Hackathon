@@ -36,7 +36,7 @@ UI/UX - sizning ilovangiz qay darajada yaxshi UI/UX dizayniga ega. Maksimal ball
 - Izohda to‘liq ismingiz va Github URL qoldirish uchun so‘rov yuboring. 
 Misol uchun: 
 To‘liq ismi: Nuruddin Iminokhunov
-URL manzil: https://github.com/gdgt Tashkent/GDG-DevFest-App-Hackathon/
+URL manzil: https://github.com/gdgashkent/GDG-DevFest-App-Hackathon/
 
 ## Kimlar ariza toshirishi mumkin?
 Har qanday talaba, universitet bitiruvchisi, dasturlashni yaxshi ko‘radigan dasturiy ta’minot ishlab chiquvchilar jamoasi, o‘rta maktab bitiruvchilari, kollej bitiruvchilari va dasturlashni yoqtiradigan istalgan kishi.
