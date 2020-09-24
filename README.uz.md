@@ -40,12 +40,14 @@ URL manzil: https://github.com/gdgashkent/GDG-DevFest-App-Hackathon/
 
 ## Kimlar ariza toshirishi mumkin?
 Har qanday talaba, universitet bitiruvchisi, dasturlashni yaxshi ko‘radigan dasturiy ta’minot ishlab chiquvchilar jamoasi, o‘rta maktab bitiruvchilari, kollej bitiruvchilari va dasturlashni yoqtiradigan istalgan kishi.
-Qo'shimcha savol va muorajaatlaringizni Telegram guruhimizga berilgan havola orqali qoldirishingiz mumkin: (Telegram guruhga qo'shilish)[https://t.me/gdgapphackathon]
+Qo'shimcha savol va muorajaatlaringizni Telegram guruhimizga berilgan havola orqali qoldirishingiz mumkin: 
+[Telegram guruhga qo'shilish](https://t.me/gdgapphackathon)
 
 ## Hakamlar ro‘yxati:
-Axrorxo‘ja Yodgorov - Super Dispatch’da mobil dasturchi
-Sardor Islomov - Payme’da mobil dasturchi
-Nuruddin Iminoxunov - PRO Unlimited @ Facebook’da mahsulotni rivojlantirish bo‘yicha mutaxassis
-Mamurjon Qodirov - dasturchi, bekend. “UDEVS” MCHJ asoschisi va texnik direktori.
+Axrorxo‘ja Yodgorov - Super Dispatch’da mobil dasturchi\
+Sardor Islomov - Payme’da mobil dasturchi\
+Nuruddin Iminoxunov - PRO Unlimited @ Facebook’da mahsulotni rivojlantirish bo‘yicha mutaxassis\
+Mamurjon Qodirov - dasturchi, bekend. “UDEVS” MCHJ asoschisi va texnik direktori\
+Azizbek Baxodirov - UI/UX Designer
 
 
