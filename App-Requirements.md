@@ -68,4 +68,4 @@ Screen-6. This screen should show list of FAQs(Frequently asked questions)
 - iOS native
 - Android native
 
-You can build application using Flutter or you can write natively for each platform(Kotlin for Android and Swift for iOS).Backend for the applicatio you have to build by yourself using Firebase.You can find existing data(in JSON format) in this repository called devfest-tashkent.json. You have to import JSON file to your Firebase account and use it in your apps.
+You can build application using Flutter or you can write natively for each platform(Kotlin for Android and Swift for iOS).Backend for the applicatio you have to build by yourself using Firebase. You can find existing data(in JSON format) in a file on this repository called default-firebase-data.json. You have to import JSON file to your Firebase account and use it in your apps.
